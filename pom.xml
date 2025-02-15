@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>pe.cibertec</groupId>
-	<artifactId>config-server</artifactId>
+	<artifactId>ms-config-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>config-server</name>
+	<name>ms-config-server</name>
 	<description>Servidor de configuracion</description>
 	<url/>
 	<licenses>
